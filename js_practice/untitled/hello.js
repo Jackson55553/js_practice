@@ -6,7 +6,8 @@ const me = {
     work: true,
     id: 22345
 }
-
+    let btn = document.getElementById("")
+    btn.textContent
 const me2 = {...me }
 
 console.log(!me)
